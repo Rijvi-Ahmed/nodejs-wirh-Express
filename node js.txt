@@ -1,0 +1,19 @@
+topic
+1=> REPL(read, Eval,print,loop)
+inside REPL in cmd type
+->node
+exit REPL
+-> .exit
+use (_) underscore to get last result
+
+editor REPL
+-> .editor
+
+any file run type
+-> node file_name
+
+some module of node js
+fs=file system, os=operating system, path
+writeFileSync = create new file and if file present data are overwrite in synchronous way
+writeFile = create new file and if file present data are overwrite in asynchronous way
+

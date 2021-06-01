@@ -1,0 +1,13 @@
+[
+    {   "message": "rijvi is a good boy",
+        "status": "success",
+        "age":26,
+        "gender":"male"
+    },
+    {
+        "message": "Rani is a good boy",
+        "status": "success",
+        "age":26,
+        "gender":"female"
+    }
+]
